@@ -1,0 +1,16 @@
+{
+  "name": "genpark-agentic-commerce-subscription-churn-hazard-cox-proportional-sentinel-skill",
+  "version": "1.0.0",
+  "title": "Subscription Churn Hazard & Retention Orchestrator Skill",
+  "category": "Agentic Commerce (SaaS & Subscription Commerce)",
+  "description": "Calculates Cox Proportional Hazards churn risk using product usage velocity decay, payment decline frequency, and support sentiment drift, triggering tailored retention plays.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "predict_subscription_churn_hazard"
+  ],
+  "dependencies": []
+}
